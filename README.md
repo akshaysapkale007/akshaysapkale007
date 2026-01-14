@@ -23,6 +23,10 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🏦 [FinAI — AI Agent for Finance](https://github.com/akshaysapkale007/Quantitative-Finance-AI-Agent)
 > AI agentic system for real-time portfolio analysis and quantitative insights through NLP and Python.
 
@@ -32,7 +36,18 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 `Python` `LangGraph` `LangChain` `Gemini 3 Flash` `OpenBB` `Flask` `Tavily`
 
+</td>
+<td width="40%">
+<img src="assets/finai.png" width="100%" />
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ### 📊 [RestoAI — Autonomous Business Strategist](https://github.com/akshaysapkale007/AI-Consultant---Restaurant)
 > Turns raw POS data into a $47K+ strategic report in 4 minutes.
@@ -43,7 +58,18 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 `Python` `Claude Opus 4.5` `Pandas` `NumPy` `Matplotlib` `Vertex AI`
 
+</td>
+<td width="40%">
+<img src="assets/restoai.png" width="100%" />
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ### 💼 [Sales AI Agent](https://github.com/akshaysapkale007/Sales-AI-Agent)
 > Autonomous sales agent that collects and qualifies leads 24/7 with agentic architecture.
@@ -54,7 +80,18 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 `React` `TypeScript` `Node.js` `Firebase` `Firestore` `Gemini 3 Flash` `Cloud Functions`
 
+</td>
+<td width="40%">
+<img src="assets/sales-agent.png" width="100%" />
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ### 🎨 [Marketing Agent AI](https://github.com/akshaysapkale007/marketing-agent-ai)
 > Paste a URL, get complete marketing campaigns with AI-generated images.
@@ -65,20 +102,30 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 `TypeScript` `React` `Firebase` `Gemini 3 Flash` `Imagen 4` `Vertex AI` `Cloud Functions`
 
+</td>
+<td width="40%">
+<img src="assets/marketing-agent.png" width="100%" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ What I Bring
 
 **Strategic Skills**
+- Business Value Translation
 - System Architecture Decisions
 - Agentic Reasoning Design
+- Data Pipeline Design
+- Enterprise SAAS Architecture
 - Multi-Tenant Security Models
 - Prompt Orchestration Strategy
 - UX/Product Decisions
 - AI Failure Mode Handling
 - Cross-Modal Alignment (Vision + Copy + UI)
 
-**Tools:** Python, TypeScript, React, LangChain, LangGraph, Gemini 3, Claude Opus 4.5, OpenBB, Firebase, Vertex AI
+**Tools:** Python, TypeScript, React, LangChain,LLM Integration, Google Cloud, Antigravity Firebase, Vertex AI, Vision Models
 
 ---
 
