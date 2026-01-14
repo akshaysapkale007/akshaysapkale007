@@ -24,89 +24,66 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-### 🏦 [FinAI — AI Agent for Finance](https://github.com/akshaysapkale007/Quantitative-Finance-AI-Agent)
-> AI agentic system for real-time portfolio analysis and quantitative insights through NLP and Python.
-
-- Real-time portfolio valuation with live market prices via OpenBB
-- Multi-tool orchestration using ReAct (Reason + Act) pattern
-- Institutional-grade analysis combining technicals & fundamentals
-
-`Python` `LangGraph` `LangChain` `Gemini 3 Flash` `OpenBB` `Flask` `Tavily`
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="assets/finai.png" height="200" />
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 📊 [RestoAI — Autonomous Business Strategist](https://github.com/akshaysapkale007/AI-Consultant---Restaurant)
-> Turns raw POS data into a $47K+ strategic report in 4 minutes.
-
-- 15 statistical modules (BCG Matrix, cohort analysis, time-series)
-- Cognitive architecture: Perception → Reasoning → Action
-- ROI quantification for every recommendation
-
-`Python` `Claude Opus 4.5` `Pandas` `NumPy` `Matplotlib` `Vertex AI`
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="assets/restoai.png" height="200" />
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 💼 [Sales AI Agent](https://github.com/akshaysapkale007/Sales-AI-Agent)
-> Autonomous sales agent that collects and qualifies leads 24/7 with agentic architecture.
-
-- Generative UI: Renders interactive React components based on context
-- Self-improving: Uses NLP feedback loops to optimize prompts
-- Multi-tenant SaaS: Secure data isolation for enterprise use
-
-`React` `TypeScript` `Node.js` `Firebase` `Firestore` `Gemini 3 Flash` `Cloud Functions`
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="assets/sales-agent.png" height="200" />
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🎨 [Marketing Agent AI](https://github.com/akshaysapkale007/marketing-agent-ai)
-> Paste a URL, get complete marketing campaigns with AI-generated images.
-
-- Brand DNA Extraction: Multi-page crawling + multimodal vision
-- Campaign Generation: Copy, hashtags, and schedules
-- AI Image Studio: Imagen 4 integration for product shots
-
-`TypeScript` `React` `Firebase` `Gemini 3 Flash` `Imagen 4` `Vertex AI` `Cloud Functions`
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="assets/marketing-agent.png" height="200" />
-</td>
-</tr>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>🏦 <a href="https://github.com/akshaysapkale007/Quantitative-Finance-AI-Agent">FinAI — AI Agent for Finance</a></h3>
+      <blockquote>AI agentic system for real-time portfolio analysis and quantitative insights through NLP and Python.</blockquote>
+      <ul>
+        <li>Real-time portfolio valuation with live market prices via OpenBB</li>
+        <li>Multi-tool orchestration using ReAct (Reason + Act) pattern</li>
+        <li>Institutional-grade analysis combining technicals & fundamentals</li>
+      </ul>
+      <p><code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Gemini 3 Flash</code> <code>OpenBB</code> <code>Flask</code> <code>Tavily</code></p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="assets/finai.png" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>📊 <a href="https://github.com/akshaysapkale007/AI-Consultant---Restaurant">RestoAI — Business Strategist</a></h3>
+      <blockquote>Turns raw POS data into a $47K+ strategic report in 4 minutes.</blockquote>
+      <ul>
+        <li>15 statistical modules (BCG Matrix, cohort analysis, time-series)</li>
+        <li>Cognitive architecture: Perception → Reasoning → Action</li>
+        <li>ROI quantification for every recommendation</li>
+      </ul>
+      <p><code>Python</code> <code>Claude Opus 4.5</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Vertex AI</code></p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="assets/restoai.png" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>💼 <a href="https://github.com/akshaysapkale007/Sales-AI-Agent">Sales AI Agent</a></h3>
+      <blockquote>Autonomous sales agent that collects and qualifies leads 24/7.</blockquote>
+      <ul>
+        <li>Generative UI: Renders interactive React components based on context</li>
+        <li>Self-improving: Uses NLP feedback loops to optimize prompts</li>
+        <li>Multi-tenant SaaS: Secure data isolation for enterprise use</li>
+      </ul>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Firebase</code> <code>Firestore</code> <code>Gemini 3 Flash</code></p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="assets/sales-agent.png" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>🎨 <a href="https://github.com/akshaysapkale007/marketing-agent-ai">Marketing Agent AI</a></h3>
+      <blockquote>Paste a URL, get complete marketing campaigns with AI images.</blockquote>
+      <ul>
+        <li>Brand DNA Extraction: Multi-page crawling + multimodal vision</li>
+        <li>Campaign Generation: Copy, hashtags, and schedules</li>
+        <li>AI Image Studio: Imagen 4 integration for product shots</li>
+      </ul>
+      <p><code>TypeScript</code> <code>React</code> <code>Firebase</code> <code>Gemini 3 Flash</code> <code>Imagen 4</code> <code>Vertex AI</code></p>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="assets/marketing-agent.png" height="200" />
+    </td>
+  </tr>
 </table>
 
 ---
