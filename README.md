@@ -25,7 +25,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 🏦 [FinAI — AI Agent for Finance](https://github.com/akshaysapkale007/Quantitative-Finance-AI-Agent)
 > AI agentic system for real-time portfolio analysis and quantitative insights through NLP and Python.
@@ -37,7 +37,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 `Python` `LangGraph` `LangChain` `Gemini 3 Flash` `OpenBB` `Flask` `Tavily`
 
 </td>
-<td width="40%">
+<td width="40%" valign="top" align="center">
 <img src="assets/finai.png" height="200" />
 </td>
 </tr>
@@ -47,7 +47,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 📊 [RestoAI — Autonomous Business Strategist](https://github.com/akshaysapkale007/AI-Consultant---Restaurant)
 > Turns raw POS data into a $47K+ strategic report in 4 minutes.
@@ -59,7 +59,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 `Python` `Claude Opus 4.5` `Pandas` `NumPy` `Matplotlib` `Vertex AI`
 
 </td>
-<td width="40%">
+<td width="40%" valign="top" align="center">
 <img src="assets/restoai.png" height="200" />
 </td>
 </tr>
@@ -69,7 +69,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 💼 [Sales AI Agent](https://github.com/akshaysapkale007/Sales-AI-Agent)
 > Autonomous sales agent that collects and qualifies leads 24/7 with agentic architecture.
@@ -81,7 +81,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 `React` `TypeScript` `Node.js` `Firebase` `Firestore` `Gemini 3 Flash` `Cloud Functions`
 
 </td>
-<td width="40%">
+<td width="40%" valign="top" align="center">
 <img src="assets/sales-agent.png" height="200" />
 </td>
 </tr>
@@ -91,7 +91,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 🎨 [Marketing Agent AI](https://github.com/akshaysapkale007/marketing-agent-ai)
 > Paste a URL, get complete marketing campaigns with AI-generated images.
@@ -103,7 +103,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 `TypeScript` `React` `Firebase` `Gemini 3 Flash` `Imagen 4` `Vertex AI` `Cloud Functions`
 
 </td>
-<td width="40%">
+<td width="40%" valign="top" align="center">
 <img src="assets/marketing-agent.png" height="200" />
 </td>
 </tr>
