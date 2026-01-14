@@ -6,7 +6,7 @@
 
 *I build AI agents that automate entire business functions—Finance, Marketing, Sales, Analytics.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaysapkale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/akshaysapkale](https://www.linkedin.com/in/akshay-s-548378125/))
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapkaleakshay01@gmail.com)
 
 </div>
