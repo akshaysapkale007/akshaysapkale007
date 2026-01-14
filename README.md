@@ -38,7 +38,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 </td>
 <td width="40%">
-<img src="assets/finai.png" width="100%" />
+<img src="assets/finai.png" height="200" />
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 </td>
 <td width="40%">
-<img src="assets/restoai.png" width="100%" />
+<img src="assets/restoai.png" height="200" />
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 </td>
 <td width="40%">
-<img src="assets/sales-agent.png" width="100%" />
+<img src="assets/sales-agent.png" height="200" />
 </td>
 </tr>
 </table>
@@ -104,7 +104,7 @@ I build **Level 3 Autonomous Agents**—AI systems that don't just respond to pr
 
 </td>
 <td width="40%">
-<img src="assets/marketing-agent.png" width="100%" />
+<img src="assets/marketing-agent.png" height="200" />
 </td>
 </tr>
 </table>
